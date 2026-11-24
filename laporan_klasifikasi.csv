@@ -1,0 +1,7 @@
+,precision,recall,f1-score,support
+BAIK,0.473,0.779,0.589,68.0
+SEDANG,0.897,0.611,0.727,699.0
+TIDAK SEHAT,0.308,0.722,0.431,133.0
+accuracy,0.64,0.64,0.64,0.64
+macro avg,0.559,0.704,0.582,900.0
+weighted avg,0.778,0.64,0.673,900.0

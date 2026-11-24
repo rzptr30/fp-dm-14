@@ -1,0 +1,6 @@
+Model,Accuracy,Macro-F1
+Baseline: besok = hari ini,0.7711,0.6267
+Random Forest,0.64,0.5824
+KNN,0.7833,0.5369
+Decision Tree,0.4967,0.4857
+Baseline: kelas terbanyak,0.7767,0.2914
